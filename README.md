@@ -10,3 +10,4 @@ Here is the status for the IDEs I've been able to test:
 | Rider 2021.3.4        | Crash  |
 | Rider 2022.2.3        | OK     |
 | Visual Studio 17.0.0  | Crash  |
+| Visual Studio 17.3.6  | OK     |
